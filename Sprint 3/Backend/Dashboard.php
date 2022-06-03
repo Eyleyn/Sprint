@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<link rel="stylesheet" href="Dashboard.css">
-	<style><?php include 'C:\Users\leonila\Desktop\xampp\htdocs\sample\Dashboard.css'; ?></style>
+	<style><?php include 'Dashboard.css'; ?></style>
 	<div class="table">
 	<title> FOOD N' WEB : Dashboard </title> 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
