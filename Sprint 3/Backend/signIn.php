@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<link rel="stylesheet" href="SignIn.css">
-	<style><?php include 'C:\Users\leonila\Desktop\xampp\htdocs\sample\SignIn.css'; ?></style>
+	<style><?php include 'SignIn.css'; ?></style>
 	<title> FOOD N' WEB : Sign In </title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<h1> FOOD N' WEB </h1>
